@@ -1,10 +1,11 @@
 .h5p-documentation-tool {
+  font-family: 'Roboto', sans-serif;
   font-size: 16px;
 }
 
 /* Resets buttons styling */
 .h5p-documentation-tool-main-content button {
-  font-family: Sans-Serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1em;
   background: none;
   border: 0;
